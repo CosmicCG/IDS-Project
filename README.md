@@ -21,7 +21,6 @@ Trained on the **CIC-IDS-2017** cybersecurity dataset to catch attacks that evad
 ## 📂 Project Structure
 
 ```text
-├── .gitignore               # Ignores large datasets (*.csv) and logs
 ├── README.md                # Project documentation
 ├── requirements.txt         # Python dependencies
 ├── ids.py                   # Main IDS sniffer (Hybrid Engine)
